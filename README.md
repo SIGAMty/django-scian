@@ -2,6 +2,12 @@
 
 El Sistema de Clasificación Industrial de América del Norte (SCIAN) es un sistema de clasificación de actividades económicas que permite la comparabilidad estadística entre los tres países de América del Norte: Canadá, México y Estados Unidos. El SCIAN es el resultado de la cooperación entre el Instituto Nacional de Estadística y Geografía (INEGI) de México, Statistics Canada y la Oficina de Administración y Presupuesto de los Estados Unidos de América.
 
+## Instalación
+
+```
+pip install git+https://github.com/SIGAMty/django-scian@main
+```
+
 ## Descripción
 
 El SCIAN 2023 es la versión más reciente del sistema de clasificación, y es la base para la clasificación de las actividades económicas en las estadísticas oficiales de los tres países.
