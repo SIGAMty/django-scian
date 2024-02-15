@@ -14,7 +14,7 @@ El SCIAN 2023 es la versión más reciente del sistema de clasificación, y es l
 
 ## Estructura
 
-El SCIAN V2 se compone de Sector, Subsector, Rama, Subrama, Clase. Cada uno de estos niveles se compone de un código y una descripción. El código es un número de 2 dígitos para el Sector, 3 dígitos para el Subsector, 4 dígitos para la Rama, 5 dígitos para la Subrama y 6 dígitos para la Clase.
+El SCIAN (2023) se compone de Sector, Subsector, Rama, Subrama, Clase. Cada uno de estos niveles se compone de un código y una descripción. El código es un número de 2 dígitos para el Sector, 3 dígitos para el Subsector, 4 dígitos para la Rama, 5 dígitos para la Subrama y 6 dígitos para la Clase.
 
 ```
 
